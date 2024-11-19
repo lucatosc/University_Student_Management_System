@@ -1,8 +1,6 @@
 # What is University Management System (UMS)?
 
-Assalam-u-Alaikum!
-
-University Management System is a sort of LMS where Admin can register instructors and instructor can register students and mark their attendance and academic records. Student see their record by loging into their respective accounts. It is similar to my [UN Portal](https://github.com/ahsannjavaid/un-portal/) project but one actor (Admin) is additional and also some functionalites are more logical in this project.
+University Management System is a sort of LMS where Admin can register instructors and instructor can register students and mark their attendance and academic records. Student see their record by loging into their respective accounts. It is similar to my [UN Portal] project but one actor (Admin) is additional and also some functionalites are more logical in this project.
 
 ## Summary/Flow of the Project:
 
@@ -63,7 +61,7 @@ Runs the server in the development mode at URL [http://localhost:5001](http://lo
 
 # Client: Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App]
 
 ## Available Scripts
 
@@ -84,7 +82,7 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+See the section about [running tests] for more information.
 
 ### `npm run build`
 
@@ -94,7 +92,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about [deployment] for more information.
 
 ### `npm run eject`
 
@@ -108,30 +106,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more in the [Create React App documentation]
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
