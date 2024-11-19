@@ -14,8 +14,7 @@ University Management System is a sort of LMS where Admin can register instructo
 
 # Technology Used
 
-MERN Stack
-
+MERN Stack  
 ## Client/Frontend
 
 * React.js
